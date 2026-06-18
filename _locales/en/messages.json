@@ -1,0 +1,95 @@
+{
+  "appName": {
+    "message": "Language Shadowing for YouTube"
+  },
+  "appDescription": {
+    "message": "Record your voice and release to playback (Push-to-Talk). Hold Shift+Space on any web page to record."
+  },
+  "subtitle": {
+    "message": "Realtime Voice Monitor"
+  },
+  "permissionTitle": {
+    "message": "Microphone Permission Required"
+  },
+  "permissionDesc": {
+    "message": "This extension requires microphone access to echo your voice back to your speakers.\n\n*Please select \"Allow while visiting the site\". Selecting \"Allow this time\" will not work."
+  },
+  "btnGrantPermission": {
+    "message": "Grant Microphone Access"
+  },
+  "statusIdle": {
+    "message": "Idle"
+  },
+  "statusRecording": {
+    "message": "Recording..."
+  },
+  "statusPlaying": {
+    "message": "Playing..."
+  },
+  "btnHoldToRecord": {
+    "message": "Hold to Record"
+  },
+  "btnReleaseToPlay": {
+    "message": "Release to Play"
+  },
+  "btnPlaying": {
+    "message": "Playing..."
+  },
+  "tipHoldToRecord": {
+    "message": "Hold shortcut on web pages:"
+  },
+  "btnEdit": {
+    "message": "Edit"
+  },
+  "editInstruction": {
+    "message": "Press new shortcut keys"
+  },
+  "editCancel": {
+    "message": "(Esc to cancel)"
+  },
+  "editRequireModifier": {
+    "message": "Include modifier (Ctrl/Alt/Shift)"
+  },
+  "settingAutoPause": {
+    "message": "Auto-pause video while recording"
+  },
+  "settingAutoResume": {
+    "message": "Auto-resume video after playback"
+  },
+  "footerNote": {
+    "message": "🎧 Headphones recommended to prevent feedback"
+  },
+  "errorReload": {
+    "message": "Language Shadowing for YouTube has been updated.\nPlease refresh this page (F5/Cmd+R)."
+  },
+  "shortcutReloadNote": {
+    "message": "* Tabs opened before setup require reloading (Win: F5 / Mac: Cmd+R)."
+  },
+  "optionsSubtitle": {
+    "message": "Microphone Permission Settings"
+  },
+  "optionsTitle": {
+    "message": "Enable Microphone Access"
+  },
+  "optionsDesc1": {
+    "message": "Microphone access is required to echo your voice back to the speakers."
+  },
+  "optionsDesc2Auto": {
+    "message": "Please select <strong>\"Allow while visiting the site\"</strong> in the popup displayed at the top left of the browser."
+  },
+  "optionsDesc2Manual": {
+    "message": "Click the button below and select <strong>\"Allow while visiting the site\"</strong> in the popup displayed at the top left of the browser."
+  },
+  "optionsWarning": {
+    "message": "* It will not work properly if you select \"Allow this time\"."
+  },
+  "optionsBtn": {
+    "message": "Allow Microphone Access"
+  },
+  "optionsSuccess": {
+    "message": "✓ Permission granted! You can now close this tab and use the extension."
+  },
+  "optionsAlert": {
+    "message": "Microphone access was denied. Please allow microphone usage from your browser settings (e.g., the lock icon in the address bar)."
+  }
+}

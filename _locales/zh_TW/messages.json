@@ -1,0 +1,95 @@
+{
+  "appName": {
+    "message": "Language Shadowing for YouTube"
+  },
+  "appDescription": {
+    "message": "錄製您的聲音並放開以播放（Push-to-Talk）。在任何網頁上長按 Shift+Space 進行錄音。"
+  },
+  "subtitle": {
+    "message": "即時語音監聽"
+  },
+  "permissionTitle": {
+    "message": "需要麥克風權限"
+  },
+  "permissionDesc": {
+    "message": "此擴充功能需要麥克風存取權限，以便將您的聲音回放至揚聲器。\n\n*請務必選擇「造訪這個網站時允許」。選擇「僅限本次允許」將無法正常運作。"
+  },
+  "btnGrantPermission": {
+    "message": "授權麥克風存取權限"
+  },
+  "statusIdle": {
+    "message": "待機中"
+  },
+  "statusRecording": {
+    "message": "錄音中..."
+  },
+  "statusPlaying": {
+    "message": "播放中..."
+  },
+  "btnHoldToRecord": {
+    "message": "按住錄音"
+  },
+  "btnReleaseToPlay": {
+    "message": "放開播放"
+  },
+  "btnPlaying": {
+    "message": "播放中..."
+  },
+  "tipHoldToRecord": {
+    "message": "在網頁上長按以錄音："
+  },
+  "btnEdit": {
+    "message": "變更"
+  },
+  "editInstruction": {
+    "message": "請按下新的快速鍵"
+  },
+  "editCancel": {
+    "message": "(按 Esc 取消)"
+  },
+  "editRequireModifier": {
+    "message": "請包含修飾鍵 (Ctrl/Alt/Shift 等)"
+  },
+  "settingAutoPause": {
+    "message": "錄音時自動暫停影片"
+  },
+  "settingAutoResume": {
+    "message": "播放結束後自動恢復影片"
+  },
+  "footerNote": {
+    "message": "🎧 建議佩戴耳機以防止回音"
+  },
+  "errorReload": {
+    "message": "Language Shadowing for YouTube 已更新。\n請重新整理此頁面 (F5/Cmd+R)。"
+  },
+  "shortcutReloadNote": {
+    "message": "※ 設定前開啟的分頁需要重新整理 (Win: F5 / Mac: Cmd+R)。"
+  },
+  "optionsSubtitle": {
+    "message": "麥克風權限設定"
+  },
+  "optionsTitle": {
+    "message": "啟用麥克風存取權限"
+  },
+  "optionsDesc1": {
+    "message": "需要麥克風存取權限才能將您的聲音回傳至揚聲器。"
+  },
+  "optionsDesc2Auto": {
+    "message": "請在瀏覽器左上角顯示的彈出視窗中選擇<strong>「造訪這個網站時允許」</strong>。"
+  },
+  "optionsDesc2Manual": {
+    "message": "請點擊下方按鈕，並在瀏覽器左上角顯示的彈出視窗中選擇<strong>「造訪這個網站時允許」</strong>。"
+  },
+  "optionsWarning": {
+    "message": "※ 如果選擇「僅限本次允許」，將無法正常運作。"
+  },
+  "optionsBtn": {
+    "message": "允許使用麥克風"
+  },
+  "optionsSuccess": {
+    "message": "✓ 權限已授予！您現在可以關閉此分頁並使用擴充功能。"
+  },
+  "optionsAlert": {
+    "message": "麥克風存取權限被拒絕。請在瀏覽器設定中允許使用麥克風。"
+  }
+}

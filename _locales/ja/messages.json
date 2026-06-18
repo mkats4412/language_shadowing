@@ -1,0 +1,95 @@
+{
+  "appName": {
+    "message": "Language Shadowing for YouTube"
+  },
+  "appDescription": {
+    "message": "マイク音声を録音し、離して再生します（Push-to-Talk）。Webページ上で Shift+Space を長押しして録音します。"
+  },
+  "subtitle": {
+    "message": "Realtime Voice Monitor"
+  },
+  "permissionTitle": {
+    "message": "マイクの許可が必要です"
+  },
+  "permissionDesc": {
+    "message": "この拡張機能は、あなたのマイク入力をスピーカーにエコーバックするためにマイクのアクセス許可を必要とします。\n\n※必ず「サイトへのアクセス時は許可」を選択してください。「今回のみ許可」では動作しません。"
+  },
+  "btnGrantPermission": {
+    "message": "マイクの使用を許可する"
+  },
+  "statusIdle": {
+    "message": "待機中"
+  },
+  "statusRecording": {
+    "message": "録音中..."
+  },
+  "statusPlaying": {
+    "message": "再生中..."
+  },
+  "btnHoldToRecord": {
+    "message": "押している間 録音"
+  },
+  "btnReleaseToPlay": {
+    "message": "離して再生"
+  },
+  "btnPlaying": {
+    "message": "再生中..."
+  },
+  "tipHoldToRecord": {
+    "message": "Webページ上で長押しして録音:"
+  },
+  "btnEdit": {
+    "message": "変更"
+  },
+  "editInstruction": {
+    "message": "新しいキーを押してください"
+  },
+  "editCancel": {
+    "message": "(Escでキャンセル)"
+  },
+  "editRequireModifier": {
+    "message": "修飾キー(Ctrl/Alt/Shift等)を含めてください"
+  },
+  "settingAutoPause": {
+    "message": "録音時に動画を一時停止"
+  },
+  "settingAutoResume": {
+    "message": "再生終了後に動画を再開"
+  },
+  "footerNote": {
+    "message": "🎧 ハウリング防止のためヘッドホンを推奨します"
+  },
+  "errorReload": {
+    "message": "Language Shadowing for YouTube が更新されました。\nお手数ですが、このページを再読み込み (F5/Cmd+R) してください。"
+  },
+  "shortcutReloadNote": {
+    "message": "※設定前に表示したタブは再読み込み (Win: F5 / Mac: ⌘R) が必要です。"
+  },
+  "optionsSubtitle": {
+    "message": "マイク使用許可の設定"
+  },
+  "optionsTitle": {
+    "message": "マイクのアクセス許可を有効にします"
+  },
+  "optionsDesc1": {
+    "message": "マイクで話した音声をスピーカーにエコーバックするために、マイクへのアクセス権が必要です。"
+  },
+  "optionsDesc2Auto": {
+    "message": "ブラウザの左上に表示されるポップアップで<strong>「サイトへのアクセス時は許可」</strong>を選択してください。"
+  },
+  "optionsDesc2Manual": {
+    "message": "下のボタンをクリックし、ブラウザの左上に表示されるポップアップで<strong>「サイトへのアクセス時は許可」</strong>を選択してください。"
+  },
+  "optionsWarning": {
+    "message": "※「今回のみ許可」を選択すると正常に動作しません。"
+  },
+  "optionsBtn": {
+    "message": "マイクの使用を許可する"
+  },
+  "optionsSuccess": {
+    "message": "✓ 許可が完了しました！このタブを閉じて拡張機能をご利用ください。"
+  },
+  "optionsAlert": {
+    "message": "マイクのアクセス許可が得られませんでした。ブラウザの設定（アドレスバー左の鍵マークなど）からマイクの使用を許可してください。"
+  }
+}

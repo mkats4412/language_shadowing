@@ -1,0 +1,95 @@
+{
+  "appName": {
+    "message": "Language Shadowing for YouTube"
+  },
+  "appDescription": {
+    "message": "음성을 녹음하고 떼면 재생합니다(Push-to-Talk). 웹 페이지에서 Shift+Space를 길게 눌러 녹음하세요."
+  },
+  "subtitle": {
+    "message": "실시간 음성 모니터"
+  },
+  "permissionTitle": {
+    "message": "마이크 권한 필요"
+  },
+  "permissionDesc": {
+    "message": "이 확장 프로그램은 음성을 스피커로 에코백하기 위해 마이크 접근 권한이 필요합니다.\n\n*반드시 \"사이트에 있는 동안 허용\"을 선택하세요. \"이번만 허용\"을 선택하면 작동하지 않습니다."
+  },
+  "btnGrantPermission": {
+    "message": "마이크 사용 허용"
+  },
+  "statusIdle": {
+    "message": "대기 중"
+  },
+  "statusRecording": {
+    "message": "녹음 중..."
+  },
+  "statusPlaying": {
+    "message": "재생 중..."
+  },
+  "btnHoldToRecord": {
+    "message": "누르고 있는 동안 녹음"
+  },
+  "btnReleaseToPlay": {
+    "message": "떼면 재생"
+  },
+  "btnPlaying": {
+    "message": "재생 중..."
+  },
+  "tipHoldToRecord": {
+    "message": "웹 페이지에서 길게 눌러 녹음:"
+  },
+  "btnEdit": {
+    "message": "변경"
+  },
+  "editInstruction": {
+    "message": "새 단축키를 누르세요"
+  },
+  "editCancel": {
+    "message": "(Esc로 취소)"
+  },
+  "editRequireModifier": {
+    "message": "수정자(Ctrl/Alt/Shift)를 포함하세요"
+  },
+  "settingAutoPause": {
+    "message": "녹음 시 동영상 일시 정지"
+  },
+  "settingAutoResume": {
+    "message": "재생 완료 후 동영상 재개"
+  },
+  "footerNote": {
+    "message": "🎧 하울링 방지를 위해 헤드폰 사용을 권장합니다"
+  },
+  "errorReload": {
+    "message": "Language Shadowing for YouTube가 업데이트되었습니다.\n이 페이지를 새로고침(F5/Cmd+R)해 주세요."
+  },
+  "shortcutReloadNote": {
+    "message": "※ 설정 전 열려있던 탭은 새로고침(Win: F5 / Mac: Cmd+R)이 필요합니다."
+  },
+  "optionsSubtitle": {
+    "message": "마이크 사용 권한 설정"
+  },
+  "optionsTitle": {
+    "message": "마이크 접근 권한 활성화"
+  },
+  "optionsDesc1": {
+    "message": "마이크로 말한 음성을 스피커로 에코백하기 위해 마이크 접근 권한이 필요합니다."
+  },
+  "optionsDesc2Auto": {
+    "message": "브라우저 왼쪽 상단의 팝업에서 <strong>\"사이트에 있는 동안 허용\"</strong>을 선택하세요."
+  },
+  "optionsDesc2Manual": {
+    "message": "아래 버튼을 클릭하고 브라우저 왼쪽 상단의 팝업에서 <strong>\"사이트에 있는 동안 허용\"</strong>을 선택하세요."
+  },
+  "optionsWarning": {
+    "message": "※ \"이번만 허용\"을 선택하면 정상적으로 작동하지 않습니다."
+  },
+  "optionsBtn": {
+    "message": "마이크 사용 허용"
+  },
+  "optionsSuccess": {
+    "message": "✓ 권한 부여 완료! 이 탭을 닫고 확장 프로그램을 사용할 수 있습니다."
+  },
+  "optionsAlert": {
+    "message": "마이크 접근 권한이 거부되었습니다. 브라우저 설정에서 마이크 사용을 허용해 주세요."
+  }
+}

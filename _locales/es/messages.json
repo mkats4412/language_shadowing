@@ -1,0 +1,95 @@
+{
+  "appName": {
+    "message": "Language Shadowing for YouTube"
+  },
+  "appDescription": {
+    "message": "Graba tu voz y suelta para reproducir (Push-to-Talk). Mantén presionado Shift+Space en cualquier página web para grabar."
+  },
+  "subtitle": {
+    "message": "Monitor de Voz en Tiempo Real"
+  },
+  "permissionTitle": {
+    "message": "Se Requiere Permiso de Micrófono"
+  },
+  "permissionDesc": {
+    "message": "Esta extensión necesita acceso al micrófono para hacer eco de tu voz en los altavoces.\n\n*Seleccione \"Permitir mientras se visita el sitio\". Si selecciona \"Permitir esta vez\", no funcionará."
+  },
+  "btnGrantPermission": {
+    "message": "Otorgar Acceso al Micrófono"
+  },
+  "statusIdle": {
+    "message": "En Espera"
+  },
+  "statusRecording": {
+    "message": "Grabando..."
+  },
+  "statusPlaying": {
+    "message": "Reproduciendo..."
+  },
+  "btnHoldToRecord": {
+    "message": "Mantener para Grabar"
+  },
+  "btnReleaseToPlay": {
+    "message": "Soltar para Reproducir"
+  },
+  "btnPlaying": {
+    "message": "Reproduciendo..."
+  },
+  "tipHoldToRecord": {
+    "message": "Mantener atajo en la página web:"
+  },
+  "btnEdit": {
+    "message": "Editar"
+  },
+  "editInstruction": {
+    "message": "Presiona nuevas teclas"
+  },
+  "editCancel": {
+    "message": "(Esc para cancelar)"
+  },
+  "editRequireModifier": {
+    "message": "Incluye un modificador (Ctrl/Alt/Shift)"
+  },
+  "settingAutoPause": {
+    "message": "Pausar video al grabar"
+  },
+  "settingAutoResume": {
+    "message": "Reanudar video al terminar"
+  },
+  "footerNote": {
+    "message": "🎧 Se recomiendan auriculares para evitar eco"
+  },
+  "errorReload": {
+    "message": "Language Shadowing for YouTube ha sido actualizado.\nPor favor, recarga esta página (F5/Cmd+R)."
+  },
+  "shortcutReloadNote": {
+    "message": "* Las pestañas abiertas antes de la configuración requieren recarga (Win: F5 / Mac: Cmd+R)."
+  },
+  "optionsSubtitle": {
+    "message": "Configuración de permisos del micrófono"
+  },
+  "optionsTitle": {
+    "message": "Habilitar el acceso al micrófono"
+  },
+  "optionsDesc1": {
+    "message": "Se requiere acceso al micrófono para hacer eco de su voz en los altavoces."
+  },
+  "optionsDesc2Auto": {
+    "message": "Seleccione <strong>\"Permitir mientras se visita el sitio\"</strong> en la ventana emergente en la parte superior izquierda del navegador."
+  },
+  "optionsDesc2Manual": {
+    "message": "Haga clic en el botón de abajo y seleccione <strong>\"Permitir mientras se visita el sitio\"</strong> en la ventana emergente en la parte superior izquierda del navegador."
+  },
+  "optionsWarning": {
+    "message": "* No funcionará correctamente si selecciona \"Permitir esta vez\"."
+  },
+  "optionsBtn": {
+    "message": "Permitir acceso al micrófono"
+  },
+  "optionsSuccess": {
+    "message": "✓ ¡Permiso concedido! Puede cerrar esta pestaña y usar la extensión."
+  },
+  "optionsAlert": {
+    "message": "Se denegó el acceso al micrófono. Por favor, permita el uso del micrófono desde la configuración de su navegador."
+  }
+}
