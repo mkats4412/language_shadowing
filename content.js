@@ -83,7 +83,7 @@ document.addEventListener('keyup', (e) => {
 }, { capture: true });
 
 // --- 動画制御機能 ---
-let videoSettings = { autoPause: false, autoResume: false };
+let videoSettings = { autoPause: true, autoResume: true };
 let pausedVideos = [];
 
 try {

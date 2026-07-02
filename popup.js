@@ -250,7 +250,7 @@ const autoResumeCheckbox = document.getElementById('setting-auto-resume');
 
 async function loadSettings() {
   const data = await chrome.storage.local.get('videoSettings');
-  const settings = data.videoSettings || { autoPause: false, autoResume: false };
+  const settings = data.videoSettings || { autoPause: true, autoResume: true };
   
   autoPauseCheckbox.checked = settings.autoPause;
   autoResumeCheckbox.checked = settings.autoResume;
